@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI 视觉提示词导演"
+  short_description: "为 AI 短剧与产品图生成可执行、可评审的中英双语提示词"
+  default_prompt: "Use $creative-prompt-director to turn my idea into production-ready prompts with continuity, fidelity, and safety checks."
